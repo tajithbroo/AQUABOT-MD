@@ -14,6 +14,14 @@ This project is still being tested
     </p>
     
   ### ඔබට පහසුවෙන් QR කේතය Repl.it මඟින් ලබා ගත හැක.. පහල බටනය CLICK කරන්න
+ කරන්න..
+21
+[![Deploy](https://github.com/tajithbroo/AQUABOT-MD)
+22
+
+23
+---------------------------------   
+24
 
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@MagmaGaming/AQUABOT-MDV2?v=1)
 
